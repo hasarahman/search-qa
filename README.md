@@ -5,3 +5,5 @@ This jupyter notebook is an example of using Retrieval Augmented Generation, or 
 Tools used: Open AI Embeddings API, Langchain PyPDFLoader, ChromaDB (to store embeddings).
 
 In this example, I built a q&a system that can answer questions based on my resume. Questions like "is hasan a capable sales engineer?". 
+
+Read more about RAG here - https://python.langchain.com/docs/use_cases/question_answering/
