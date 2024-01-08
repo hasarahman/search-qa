@@ -11,11 +11,17 @@ Issues I ran into:
 2) ChromaDB is a fantastic DB for lightweight applications, but it isn't built for scale. I suggest looking at Google Cloud Vector Search or AlloyDB AI for vector DBs that can scale.
 
 Resources:
+
 RAG - https://python.langchain.com/docs/use_cases/question_answering/
+
 PyPDFLoader - https://python.langchain.com/docs/modules/data_connection/document_loaders/pdf
+
 Open AI Embeddings API - https://platform.openai.com/docs/guides/embeddings
+
 ChromaDB - https://docs.trychroma.com/getting-started
+
 Google Cloud Vertex AI Workbench Managed Notebook - https://cloud.google.com/vertex-ai/docs/workbench/managed/introduction
+
 Google Cloud Colab (access to GPUs free of charge) - https://colab.research.google.com/?utm_source=scs-index
 
 
